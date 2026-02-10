@@ -1,37 +1,31 @@
-# JupyterLite Demo
+# Kurs 261-300906: Python Intensivkurs (Frühjahr 2026)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Willkommen im Repository zum Python-Kompaktkurs! Dieser Kurs bietet eine fundierte Einführung in die Programmierung mit Python, optimiert für Problemlösungskompetenz und sauberes Software-Design.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## Kursinformationen
+- **Leitung:** David Pierzyna
+- **Termine:** Dienstags, 18:00 – 19:30 Uhr (8 Abende)
+  -  17.02. / 24.02. / 03.03. / 10.03. / 17.03. / 24.03. / 14.04. / 21.04.2026
+- **Start:** 17.02.2026
+- **Format:** Online via Jupyter Notebooks & lokal mittels VS Code
 
-## ✨ Try it in your browser ✨
+## Curriculum & Roadmap
 
-➡️ **https://jupyterlite.github.io/demo**
+| Modul | Thema | Fokus |
+| :--- | :--- | :--- |
+| **01** | [Grundlagen](notebooks/01_basics.ipynb) | Variablen, Operatoren & Speicherkonzepte |
+| **02** | [Kontrollstrukturen](notebooks/02_control.ipynb) | Datentypen & Logische Verzweigungen |
+| **03** | [Iteration](notebooks/03_loops.ipynb) | Effiziente Schleifen & Iteratoren |
+| **04** | [Modularisierung](notebooks/04_functions.ipynb) | Funktionen, Scope & Module (DRY-Prinzip) |
+| **05** | [OOP I](notebooks/05_oop.ipynb) | Klassen, Objekte & Methoden |
+| **06** | [GUI I](notebooks/06_gui_basics.ipynb) | Einführung in Benutzeroberflächen (Tkinter/CustomTkinter) |
+| **07** | [GUI II](notebooks/07_gui_advanced.ipynb) | Menüs, Dialogfelder & Event-Handling |
+| **08** | [Data & Web](notebooks/08_data_web.ipynb) | Datenbanken (SQLite) & Internet-Schnittstellen |
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## Nutzung der Notebooks
+Die Kursunterlagen sind als interaktive Jupyter Notebooks verfügbar. Sie können:
+1. Das Repo klonen und lokal mit `jupyter lab` nutzen.
+2. Die Notebooks direkt im Browser über **JupyterLite** (siehe GitHub Pages Link) starten.
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+## Anforderungen & Best Practices
+Wir folgen in diesem Kurs dem **PEP 8 Style Guide**. Code soll nicht nur funktionieren, sondern lesbar und wartbar sein.
