@@ -13,14 +13,14 @@ Willkommen im Repository zum Python-Kompaktkurs! Dieser Kurs bietet eine fundier
 
 | Modul | Thema | Fokus |
 | :--- | :--- | :--- |
-| **01** | [Grundlagen](notebooks/01_basics.ipynb) | Variablen, Operatoren & Speicherkonzepte |
-| **02** | [Kontrollstrukturen](notebooks/02_control.ipynb) | Datentypen & Logische Verzweigungen |
-| **03** | [Iteration](notebooks/03_loops.ipynb) | Effiziente Schleifen & Iteratoren |
-| **04** | [Modularisierung](notebooks/04_functions.ipynb) | Funktionen, Scope & Module (DRY-Prinzip) |
-| **05** | [OOP I](notebooks/05_oop.ipynb) | Klassen, Objekte & Methoden |
-| **06** | [GUI I](notebooks/06_gui_basics.ipynb) | Einführung in Benutzeroberflächen (Tkinter/CustomTkinter) |
-| **07** | [GUI II](notebooks/07_gui_advanced.ipynb) | Menüs, Dialogfelder & Event-Handling |
-| **08** | [Data & Web](notebooks/08_data_web.ipynb) | Datenbanken (SQLite) & Internet-Schnittstellen |
+| **01** | [Grundlagen](content/W1_Grundlagen.ipynb) | Variablen, Operatoren & Speicherkonzepte |
+| **02** | [Kontrollstrukturen](content/W2_Python_Datentypen_&_Kontrollstrukturen.ipynb) | Datentypen & Logische Verzweigungen |
+| **03** | [Iteration](content/W3__Iterationen_und_Schleifen.ipynb) | Effiziente Schleifen & Iteratoren |
+| **04** | [Modularisierung](content/W4__Funktionen_und_Modularisierung.ipynb) | Funktionen, Scope & Module (DRY-Prinzip) |
+| **05** | [OOP I](content/W5_Objektorientierte_Programmierung.ipynb) | Klassen, Objekte & Methoden |
+| **06** | [GUI I](content/W6_Tkinter_GUI_Programmierung_Modul_6.ipynb) | Einführung in Benutzeroberflächen (Tkinter/CustomTkinter) |
+| **07** | [GUI II](content/W7_GUI_und_Datenpersistenz.ipynb) | Menüs, Dialogfelder & Event-Handling |
+| **08** | [Data & Web](content/W8_Vernetzte_Applikationen.ipynb) | Datenbanken (SQLite) & Internet-Schnittstellen |
 
 ## Nutzung der Notebooks
 Die Kursunterlagen sind als interaktive Jupyter Notebooks verfügbar. Sie können:
